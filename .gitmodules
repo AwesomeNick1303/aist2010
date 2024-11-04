@@ -1,0 +1,3 @@
+[submodule "harmonixset"]
+	path = harmonixset
+	url = https://github.com/urinieto/harmonixset.git
